@@ -7,6 +7,8 @@ This repository includes:
 - 🚀 `/github/README.md` — Step-by-step guide to creating your GitHub account, repository, and commits  
 - 🔗 `/linkedin/README.md` — Guide to building and optimizing your LinkedIn profile
 
+![Session Image](images/TechTribeLinkedinGithubSession.jpg)
+
 Each guide is beginner-friendly and designed for reference long after the workshop.
 
 ---
