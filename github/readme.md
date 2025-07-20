@@ -22,16 +22,40 @@ Welcome! This guide will walk you through setting up GitHub for the first time a
 - Click **Sign Up** and follow the process
 - Choose a unique username — this becomes your public profile URL
 
-```markdown
-![Login Page](github/images/githubLogin.png)
-```
+  ![github SignUp Page](images/githubSignUp.png)
+
+- After successful sign up, you’ll be redirected to the login page
+
+- Log in using the email or username and password you just created
+
+   ![github login Page](images/githublogin.png)
 
 ---
 
 ### 2. Install Git
 - Download Git: [https://git-scm.com](https://git-scm.com)
 
+   ![git Download](images/downloadGit.png)
+
 *Install and restart your system to ensure environment paths are set.*
+
+---
+
+
+---
+💡 Tip: For better Git integration and smoother terminal experience in VS Code, switch your terminal to Git Bash:
+
+Open VS Code
+
+Press Ctrl + Shift + P → search Select Default Profile
+
+![defaultProfile](images/defaultProfile.png)
+
+Choose Git Bash
+
+![defaultProfile](images/setGitAsDefaultProfile.png)
+
+Then restart your terminal (Ctrl + ~) or VS Code
 
 ---
 
@@ -54,6 +78,8 @@ git config --global user.email "your-email@example.com"
 2. Name it something like `my-first-repo`
 3. Keep it Public (or Private)
 4. DO NOT initialize with README (we'll do it manually)
+
+![Github Repo](images/githubRepo.png)
 
 ---
 
@@ -117,5 +143,7 @@ Make your GitHub profile look **awesome** by showing a custom introduction.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 ```
+
+![Github Profile](images/githubProfile.png)
 
 ✅ It will show up automatically on your profile!
